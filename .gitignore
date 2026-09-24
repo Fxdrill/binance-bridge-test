@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+node_modules/
+temp-binance-skills/
+audit/local-results.json
+audit/render-results.json
+*.zip
+binance-bridge-test/
