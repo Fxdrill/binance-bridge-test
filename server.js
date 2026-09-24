@@ -70,8 +70,9 @@ async function runTests() {
   const alphaExchangeInfo =
     "https://www.binance.com/bapi/defi/v1/public/alpha-trade/get-exchange-info";
 
+  
   const smartMoney =
-    "https://web3.binance.com/bapi/defi/v1/public/wallet-direct/buw/wallet/market/smart-money/ai";
+    "https://web3.binance.com/bapi/defi/v1/public/wallet-direct/buw/wallet/web/signal/smart-money/ai";
 
   const results = [];
 
